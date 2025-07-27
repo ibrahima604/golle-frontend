@@ -8,4 +8,5 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
+  base: "/golle-frontend/", // IMPORTANT pour GitHub Pages
 })

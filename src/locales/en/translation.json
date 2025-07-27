@@ -1,0 +1,127 @@
+{
+  "welcome": "Welcome to Golle",
+  "login": "Login",
+  "register": "Register",
+  "dashboard": {
+    "loading": "Loading dashboard...",
+    "greeting": "Hello {{prenom}} {{nom}} 👋",
+    "profileTitle": "My profile",
+    "profileDesc": "View and update your personal information.",
+    "missionsTitle": "My projects",
+    "missionsDesc": "Manage your applications and freelance projects.",
+    "messagesTitle": "Messaging",
+    "messagesDesc": "Chat with your clients or freelancers."
+}
+,
+"navbar": {
+    "orders": "Orders",
+    "profile": "My Profile",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "Login",
+    "contact": "Contact",
+    "seller": "Become a seller",
+    "explore": "Explore",
+    "search_placeholder": "What service are you looking for today?"
+  },
+
+    "home": {
+    "heroTitle": "African freelancing starts here.",
+    "heroDesc": "Find qualified African talents or offer your skills on Golle.",
+    "popularCategories": "Popular Categories",
+    "categories": {
+      "dev": "Web Development",
+      "design": "Design & Graphics",
+      "writing": "Writing & Translation",
+      "marketing": "Digital Marketing"
+    },
+    "featuredServices": "Featured Services",
+    "serviceTitle": "Pro Service ${{number}}0",
+    "serviceBy": "Offered by an African talent",
+    "testimonialsTitle": "They trust us",
+    "testimonial1": "Thanks to Golle, I found my first international clients!",
+    "testimonial2": "A unique platform that values African talent.",
+    "testimonial3": "Simple, fast and 100% adapted to local freelancing.",
+    "user": "User",
+    "ctaTitle": "Join the African freelancing revolution",
+    "ctaSubtitle": "Sign up for free and start offering your services today.",
+    "ctaButton": "Join now"
+  },
+  "footer": {
+  "description": "Golle is the 100% African freelancing platform. Find talents or offer your services easily.",
+  "navigation": "Navigation",
+  "links": {
+    "home": "Home",
+    "explore": "Explore",
+    "becomeSeller": "Become a Seller",
+    "contact": "Contact"
+  },
+  "categoriesTitle": "Categories",
+  "categories": {
+    "web": "Web Development",
+    "design": "Graphic Design",
+    "marketing": "Digital Marketing",
+    "writing": "Writing & Translation"
+  },
+  "followUs": "Follow us",
+  "rights": "All rights reserved."
+},
+"connexion": {
+    "title": "Login to Golle",
+    "email": "Email address",
+    "password": "Password",
+    "button": "Login",
+    "loading": "Logging in...",
+    "or": "OR",
+    "google": "Login with Google",
+    "noAccount": "Don't have an account?",
+    "signup": "Sign up",
+    "error": "Login error"
+  },
+  "signup": {
+    "title": "Create an account at Golle",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "cancel": "Cancel",
+    "submit": "Sign up",
+    "loading": "Processing...",
+    "alreadyAccount": "Already have an account?",
+    "login": "Login",
+    "passwordInvalid": "Invalid password",
+    "passwordInvalidMessage": "The password does not meet all required criteria.",
+    "passwordMismatchTitle": "Error",
+    "passwordMismatch": "Passwords do not match.",
+    "accountCreated": "Account successfully created!",
+    "verifyEmail": "Please verify your email before logging in.",
+    "verifyNow": "Verify my email",
+    "validationError": "Validation error",
+    "error": "Error",
+    "unexpectedError": "An unexpected error occurred.",
+    "criteriaFilled": "criteria met",
+    "criteria": {
+      "minLength": "At least 8 characters",
+      "uppercase": "An uppercase letter",
+      "lowercase": "A lowercase letter",
+      "digit": "A number",
+      "special": "A special character (@$!%*?)"
+    }
+
+},
+"profile": {
+  "unauthorized": "Unauthorized. Please log in.",
+  "loading_profile": "Loading profile...",
+  "my_profile": "My Profile",
+  "last_name": "Last Name",
+  "first_name": "First Name",
+  "email": "Email",
+  "edit_profile": "Edit Profile",
+  "update_error": "Error updating profile.",
+  "saving": "Saving...",
+  "save": "Save",
+  "cancel": "Cancel"
+}
+
+}

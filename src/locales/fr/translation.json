@@ -1,0 +1,124 @@
+{
+  "welcome": "Bienvenue sur Golle",
+  "login": "Connexion",
+  "register": "Inscription",
+  "dashboard": {
+    "loading": "Chargement du tableau de bord...",
+    "greeting": "Bonjour {{prenom}} {{nom}} 👋",
+    "profileTitle": "Mon profil",
+    "profileDesc": "Consulte et mets à jour tes informations.",
+    "missionsTitle": "Mes missions",
+    "missionsDesc": "Gère tes candidatures et projets freelance.",
+    "messagesTitle": "Messagerie",
+    "messagesDesc": "Discute avec tes clients ou freelances."
+  },
+  "navbar": {
+    "orders": "Commandes",
+    "profile": "Mon profil",
+    "settings": "Paramètres",
+    "logout": "Déconnexion",
+    "login": "Connexion",
+    "contact": "Contact",
+    "seller": "Devenir vendeur",
+    "explore": "Explorer",
+    "search_placeholder": "Quel service recherchez-vous aujourd'hui ?"
+  },
+  "home": {
+    "heroTitle": "Le freelancing à l’africaine commence ici.",
+    "heroDesc": "Trouvez des talents africains qualifiés ou proposez vos compétences sur Golle.",
+    "popularCategories": "Catégories populaires",
+    "categories": {
+      "dev": "Développement Web",
+      "design": "Design & Graphisme",
+      "writing": "Rédaction & Traduction",
+      "marketing": "Marketing Digital"
+    },
+    "featuredServices": "Services en vedette",
+    "serviceTitle": "Service Pro {{number}}0",
+    "serviceBy": "Offert par un talent africain",
+    "testimonialsTitle": "Ils nous font confiance",
+    "testimonial1": "Grâce à Golle, j’ai trouvé mes premiers clients internationaux !",
+    "testimonial2": "Une plateforme unique qui valorise les talents africains.",
+    "testimonial3": "Simple, rapide et 100% adaptée au freelancing local.",
+    "user": "Utilisateur",
+    "ctaTitle": "Rejoignez la révolution du freelancing africain",
+    "ctaSubtitle": "Inscrivez-vous gratuitement et commencez à vendre vos services dès aujourd’hui.",
+    "ctaButton": "S’inscrire maintenant"
+  },
+  "footer": {
+    "description": "Golle est la plateforme de freelancing 100% africaine. Trouvez des talents ou proposez vos services en toute simplicité.",
+    "navigation": "Navigation",
+    "links": {
+      "home": "Accueil",
+      "explore": "Explorer",
+      "becomeSeller": "Devenir vendeur",
+      "contact": "Contact"
+    },
+    "categoriesTitle": "Catégories",
+    "categories": {
+      "web": "Développement Web",
+      "design": "Design Graphique",
+      "marketing": "Marketing Digital",
+      "writing": "Rédaction & Traduction"
+    },
+    "followUs": "Suivez-nous",
+    "rights": "Tous droits réservés."
+  },
+  "connexion": {
+    "title": "Se connecter chez Golle",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "button": "Connexion",
+    "loading": "Connexion...",
+    "or": "OU",
+    "google": "Connexion avec Google",
+    "noAccount": "Pas encore de compte ?",
+    "signup": "S’inscrire",
+    "error": "Erreur de connexion"
+  },
+  "signup": {
+    "title": "Créer un compte chez Golle",
+    "firstName": "Prénom",
+    "lastName": "Nom",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "cancel": "Annuler",
+    "submit": "S’inscrire",
+    "loading": "En cours...",
+    "alreadyAccount": "Déjà inscrit ?",
+    "login": "Connexion",
+    "passwordInvalid": "Mot de passe invalide",
+    "passwordInvalidMessage": "Le mot de passe ne respecte pas tous les critères requis.",
+    "passwordMismatchTitle": "Erreur",
+    "passwordMismatch": "Les mots de passe ne correspondent pas.",
+    "accountCreated": "Compte créé avec succès !",
+    "verifyEmail": "Veuillez vérifier votre e-mail avant de vous connecter.",
+    "verifyNow": "Vérifier mon e-mail",
+    "validationError": "Erreur de validation",
+    "error": "Erreur",
+    "unexpectedError": "Une erreur s’est produite.",
+    "criteriaFilled": "critères remplis",
+    "criteria": {
+      "minLength": "Minimum 8 caractères",
+      "uppercase": "Une lettre majuscule",
+      "lowercase": "Une lettre minuscule",
+      "digit": "Un chiffre",
+      "special": "Un caractère spécial (@$!%*?)"
+    }
+  },
+  "profile": {
+  "unauthorized": "Non autorisé. Veuillez vous connecter.",
+  "loading_profile": "Chargement du profil...",
+  "my_profile": "Mon Profil",
+  "last_name": "Nom",
+  "first_name": "Prénom",
+  "email": "Email",
+  "edit_profile": "Modifier mes informations",
+  "update_error": "Erreur lors de la mise à jour du profil.",
+  "saving": "Sauvegarde...",
+  "save": "Sauvegarder",
+  "cancel": "Annuler"
+}
+
+}

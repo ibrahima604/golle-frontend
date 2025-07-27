@@ -1,0 +1,124 @@
+{
+  "welcome": "A jaraama Golle",
+  "login": "Nanaama",
+  "register": "Jokkondiral",
+  "dashboard": {
+    "loading": "Hollirde jaati e nguurndam...",
+    "greeting": "A jaraama {{prenom}} {{nom}} 👋",
+    "profileTitle": "Ngal fuɗɗi",
+    "profileDesc": "Lollu e waylu jayngol maa.",
+    "missionsTitle": "Ngal juumre",
+    "missionsDesc": "Jangir e rewtaa juumre ɗee.",
+    "messagesTitle": "Ñaamndal",
+    "messagesDesc": "Hollu e jammaaji e yettoɓe."
+  },
+  "navbar": {
+    "orders": "Doggal",
+    "profile": "Jeyngu am",
+    "settings": "Teeltagol",
+    "logout": "Yaltin",
+    "login": "Uddit",
+    "contact": "Noddu",
+    "seller": "Jokke jaatigi",
+    "explore": "Lollu",
+    "search_placeholder": "Hol saŋ ko fayde maa ?"
+  },
+  "home": {
+    "heroTitle": "Ndaɗo golle jeɗɗi e Afrik kaɗi ummora fii.",
+    "heroDesc": "Yiy talɗe Afrikayanke e jeyngol walla waɗ jeyngol maa e Golle.",
+    "popularCategories": "Ñaɓɓe kategoriiji",
+    "categories": {
+      "dev": "Doole Web",
+      "design": "Naatal e Grafism",
+      "writing": "Binndugol e Fuɗndugol",
+      "marketing": "Marse Digital"
+    },
+    "featuredServices": "Jeyngol ɗi waɗii gila",
+    "serviceTitle": "Golle Pro ${{number}}0",
+    "serviceBy": "Ndaɗo e jeɗɗo Afrikayanko",
+    "testimonialsTitle": "Ɓe min ndiyii",
+    "testimonial1": "E Golle mi anndii jokkondiral e caabiiji international!",
+    "testimonial2": "Plateforme jeɗɗi ndee naamni jeɗɗo Afrik.",
+    "testimonial3": "Simpil, buuba e 100% ndaɗo golle jeɗɗi.",
+    "user": "Yiytorde",
+    "ctaTitle": "Nana e rewta golle Afrikayanko",
+    "ctaSubtitle": "Jokkondiri adduna e golla e jeyngol maa hannde.",
+    "ctaButton": "Jokkondiri ton"
+  },"footer": {
+  "description": "Golle e platformu jeɗɗi ngol golle Afrikayanko. Yiy talɗe walla waɗ jeyngol maa si tawde.",
+  "navigation": "Lollirde",
+  "links": {
+    "home": "Nana",
+    "explore": "Lollu",
+    "becomeSeller": "Jokke jaatigi",
+    "contact": "Noddu"
+  },
+  "categoriesTitle": "Kategoriiji",
+  "categories": {
+    "web": "Web Gollegol",
+    "design": "Naata e grafism",
+    "marketing": "Digital Marse",
+    "writing": "Binndugol e Fuɗndugol"
+  },
+  "followUs": "Dawondir e min",
+  "rights": "Kule hakkunde nguurndam e Golle."
+},
+"connexion": {
+    "title": "Nanaama e Golle",
+    "email": "Caggal e-mail",
+    "password": "Laaɓtorgo",
+    "button": "Nanaama",
+    "loading": "Nanaama nde ...",
+    "or": "WALA",
+    "google": "Nanaama e Google",
+    "noAccount": "Alaa cuɓo ?",
+    "signup": "Jokkondiral",
+    "error": "Daneeje nde nanaama"
+  },
+  "signup": {
+    "title": "Suɗɗo kompte e Golle",
+    "firstName": "Innde jomma",
+    "lastName": "Innde gotorɗe",
+    "email": "Ndiarol imeel",
+    "password": "Finndol",
+    "confirmPassword": "Daggil finndol",
+    "cancel": "Haaytu",
+    "submit": "Suɗɗo",
+    "loading": "Nana loowa...",
+    "alreadyAccount": "Aɗa waɗi kompte?",
+    "login": "Janngol",
+    "passwordInvalid": "Finndol maa waawaa",
+    "passwordInvalidMessage": "Finndol maa meetaa doggol kala waawi e jam.",
+    "passwordMismatchTitle": "Cubbungal",
+    "passwordMismatch": "Finndeeji ɗiɗi waawaa heɓgo.",
+    "accountCreated": "Kompte maa suɗɗii e jam!",
+    "verifyEmail": "Miɗo welta a loowi imeel maa jokkondirgo.",
+    "verifyNow": "Loowi imeel am",
+    "validationError": "Cubbungal e fopporgol",
+    "error": "Cubbungal",
+    "unexpectedError": "Cubbungal moƴƴiima ɗoo ɓe heɓi.",
+    "criteriaFilled": "doggora moƴƴi",
+    "criteria": {
+      "minLength": "Haɓre 8 binndeeji",
+      "uppercase": "Binndol mawɗo",
+      "lowercase": "Binndol cuɓiiɗo",
+      "digit": "Limoore",
+      "special": "Binndol ndawol (@$!%*?)"
+    }
+
+},
+"profile": {
+  "unauthorized": "Aɗa waawi heen. Ngoodi woni haɓɓude.",
+  "loading_profile": "Njaɓɓitaade laawol...",
+  "my_profile": "Laawol am",
+  "last_name": "Innde Maɗɗo",
+  "first_name": "Innde Jooni",
+  "email": "Imeel",
+  "edit_profile": "Naata Laawol",
+  "update_error": "Hitaade laawol ɗe njippuɗaa.",
+  "saving": "Naftoraade...",
+  "save": "Naftora",
+  "cancel": "Hakkilo"
+}
+
+}
